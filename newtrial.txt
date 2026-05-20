@@ -1,4 +1,8 @@
 Trial file in git hub remote repository
 Modified in local repo
 This is modified in remote repo
+<<<<<<< HEAD
 This is modified in local repo
+=======
+new changes in sample remote repo
+>>>>>>> 8450d6cbd3933ef5bc038e597d9c062e752fff6d
