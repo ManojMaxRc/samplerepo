@@ -1,2 +1,2 @@
 This is a new sample.txt file in remote repo
-new changes in sample remote repo
+This is a new sample.txt file in local repo
